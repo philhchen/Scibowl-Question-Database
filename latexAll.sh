@@ -5,9 +5,9 @@
 ./latexMult.sh es_m
 ./latexMult.sh m_m
 ./latexMult.sh p_m
-./latexShort.sh b_m
-./latexShort.sh c_m
-./latexShort.sh en_m
-./latexShort.sh es_m
-./latexShort.sh m_m
-./latexShort.sh p_m
+./latexShort.sh b_s
+./latexShort.sh c_s
+./latexShort.sh en_s
+./latexShort.sh es_s
+./latexShort.sh m_s
+./latexShort.sh p_s
